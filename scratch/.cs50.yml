@@ -7,4 +7,4 @@ submit50:
   files: *check50_files
   style: false
   remote:
-      callback: TODO
+      callback: https://cs50.cs.yale.edu/19fa/api/submit50
